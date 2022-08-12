@@ -14,7 +14,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 ## Contributing
-Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açnız
+Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açnız.
 ## License
 [MIT](https://google.com)
 
